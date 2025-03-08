@@ -1,8 +1,14 @@
+// main.cpp
+// Description: Main program to test the Lepton and Detector classes.
+// Student ID: [11069686]
+// Date: [08/03/2025]
 #include "Lepton.h"
 #include "Detector.h"
 #include <vector>
 #include <iostream>
 
+// Main function to test the Lepton and Detector classes.
+// Instantiates Lepton objects, detects particles using Detector objects, and prints results.
 int main() {
     try {
         // Instantiate Lepton objects
